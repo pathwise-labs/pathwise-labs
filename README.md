@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Alan 👋
 
-<!--
-**pathwise-labs/pathwise-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the founder of **[Pathwise Academy](https://www.pathwiseacademy.co)**, where I run hands-on AI training for schools and companies in Singapore. I have a Master's in Education and 15 years of classroom teaching behind me, so most of what I build sits where learning meets AI.
 
-Here are some ideas to get you started:
+**What I do**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 AI classes for students and adults, plus whole-school AI hackathons and holiday camps
+- 🛠️ Build AI tools, small games and learning apps, often live with students
+- 🎬 Share short build videos as **[@build.with.alan](https://www.instagram.com/build.with.alan)**
+- 📚 Keep a free prompt guide at **[pathwiseacademy.co/prompts](https://www.pathwiseacademy.co/prompts)**
+
+**Things you'll find here**
+
+- **[clan-speak](https://github.com/pathwise-labs/clan-speak)**: Cànan, a gamified Scottish Gaelic learning app (React + Vite + TypeScript)
+- **[monkmode-landing](https://github.com/pathwise-labs/monkmode-landing)**: landing page for Monk Mode, a focus and productivity app
+
+**Tools I use a lot**
+
+TypeScript · React · Node.js · Three.js · Claude Code · Codex · Replit
+
+**Get in touch**
+
+🌐 [pathwiseacademy.co](https://www.pathwiseacademy.co) · ✉️ alan@pathwiseacademy.co
+
+Want to bring AI training or a hackathon to your school or team? Send me a message.
